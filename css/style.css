@@ -1,0 +1,28 @@
+.text-ortala {
+    text-align: center;
+}
+
+.list-ortala {
+    list-style-position: inside;
+}
+
+#mess {
+    color: rgb(202, 0, 0);
+}
+
+#anasayfa {
+    color:darkviolet;
+}
+
+.sandystorm {
+    color: sandybrown;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    border-radius: 10px;
+    background-color: yellowgreen;
+}
